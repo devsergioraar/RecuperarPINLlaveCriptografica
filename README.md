@@ -9,8 +9,7 @@ Esta herramienta sirve para hallar el PIN de la Llave Criptográfica usada para 
 CARACTERÍSTICAS
 ---------------
 
--Desarrollado en .Net para ejecutar en entornos windows.
--.Net Framework 4.5.2
+-Desarrollado en .Net Framework 4.5.2
 
 Importante
 ---------------
